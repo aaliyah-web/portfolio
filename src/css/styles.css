@@ -1,0 +1,321 @@
+/*  ==========================
+    BASE TYPOGRAPHY
+    This is added as a template to help start. 
+    You should change the fonts, font-sizes and anything else appropriate for your site.
+    ========================== */
+
+/* Optional, include a web font. @import must come before other styles. These examples are commented out */
+
+/*
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,500');
+*/
+
+/* The html and body selectors below set the base type for the entire page */
+html {
+  font-size: 1em;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333;
+}
+
+
+/* This adds space between paragraphs and list items*/
+/* NOTE: most Navigations use list items so you will need to */
+/* explicity set the margins on those so this rule doesn't */
+/* mess up your navigation styling */
+p,
+li {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+
+/* Base Styling for headings.
+  You can and should modify these to fit your site*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-family: serif;
+}
+
+
+/* For each of your headings at minimum set the margin, size, line-height. 
+Adjust font-weight and other properties as needed. */
+
+h1 {
+  font-size: 5.063em;
+  line-height: 1;
+  margin: 0 0 0.5em 0;
+}
+
+h2 {
+  font-size: 3.375em;
+  line-height: 1.2;
+  margin: 1.5em 0 0.5em 0;
+}
+
+h3 {
+  font-size: 2.25em;
+  line-height: 1;
+  margin: 1.5em 0 0.25em 0;
+}
+
+h4 {
+  font-size: 1.5em;
+  line-height: 1;
+  margin: 1.5em 0 0.5em 0;
+  font-weight: 400;
+}
+
+h5 {
+  font-size: 1em;
+  line-height: 1;
+  margin: 1.5em 0 0.5em 0;
+  font-weight: 400;
+}
+
+h6 {
+  font-size: 1em;
+  line-height: 1.5;
+  margin: 1em 0 0 0;
+  font-weight: 400;
+  /* normal */
+  text-transform: uppercase;
+}
+
+/*  ==========================
+  BASE RESPONSIVE
+  ========================== */
+
+/* Use border-box box-sizing. This isn't strictly necessary with CSS Grid but can be helpful if you're using a float fallback and it tends to be more intuitive.*/
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+/* This is basic way to make images responsive. This means if they're larger than their container they will shrink to fit it. Not a complete solution to responsive images. */
+
+img, video {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+/*RESPONSIVE VIDEO
+See for more info: https://codepen.io/profstein/pen/mrMLRj
+*/
+.videoWrapper{
+  position: relative;
+  height: 0;
+  /* padding-bottom: 75%; */ /* 4:3 aspect ratio */
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
+
+.videoWrapper iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+  height: 100%;
+}
+
+
+/*  ==========================
+  YOUR STYLES
+  Add your styles below.
+  ========================== */
+
+.pageone-text2{
+text-decoration: line-through;
+text-decoration-color: #a272cf; 
+  letter-spacing: 15px;
+  padding: 70px
+  
+}
+
+.project-image{
+background-color: #b2a5e8;
+}
+
+.project{
+display: grid;
+grid-template-columns: 2fr 2fr 2fr;
+grid-column-gap: 1em;
+grid-column: 3;    
+padding: 10px;   
+}
+
+ .project-page1{ 
+    background-color: #b2a5e8;
+   display: grid;
+grid-template-columns: 2fr 2fr ;
+grid-column-gap: 1em;
+      grid-column:  1 / span 2; 
+     padding: 10px;
+}
+
+.layout{
+background-color: #f0e6ff;
+}
+
+
+  nav {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+
+
+  * {
+      box-sizing: border-box;
+    }
+    
+    body{
+      margin: 0;
+    }
+    
+    .site-nav {
+      position: sticky;
+      top: 0;
+      display: flex;
+      flex-wrap: wrap;
+      row-gap: 1rem; /* adds space between logo and nav items if the items wrap under the logo */
+      justify-content: space-between;
+      padding: 1.5rem 2rem;
+      background-color: #ae9bc2;
+      transition: top 500ms ease-in-out;
+    }
+    
+    .logo {
+      /* you may change this styling to fit your site*/
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+    }
+    
+    /* CSS Hamburger Icon 
+    thanks to Elijah Manor */
+    .hamburger{
+      padding-right: 1rem;
+      position: relative;
+    }
+    .hamburger span, 
+    .hamburger span:before,
+    .hamburger span:after {
+      cursor: pointer;
+      border-radius: 1px;
+      height: 5px;
+      width: 35px;
+      background: #000; /*color of hamburger icon */
+      position: absolute;
+      display: block;
+      content: '';
+    }
+    .hamburger span{
+      top:5px;
+    }
+    .hamburger span:before {
+      top: -10px;
+    }
+    .hamburger span:after {
+      bottom: -10px;
+    }
+    
+    
+    .site-nav.scroll-up,
+    .site-nav:focus-within {
+      top: 0;
+    }
+    
+    .site-nav.scroll-down {
+      top: -100%;
+    }
+    
+    .links{
+      display: none;
+      height: 0;
+      flex-basis: 100%;
+      text-align: right;
+    }
+    .links.active{
+      display: block;
+    /*   height: auto; */
+    }
+    .links a{
+      display: block;
+      line-height: 1rem;
+      margin: 2rem 0;
+    }
+    
+    .links {
+        transition: height .5s ease;
+        overflow  : hidden;
+    }
+    
+    .site-nav a {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+    }
+    
+    @media screen and (min-width:600px){
+      .hamburger{
+        display: none;
+      }
+      .links {
+        display: flex;
+        flex-basis: auto;
+        height: auto;
+        margin: 0 -1em;
+      }
+    
+      .links a {
+        display: inline-block;
+        margin: 0 1em;
+      }
+    }
+
+
+
+    
+  @media screen and (min-width:600px){
+      .page-projects{
+        grid-template-columns: 1fr 1fr;
+      }
+  } /* =========end width 600px ========= */
+
+        .grid-container {
+          display: grid;
+          gap: 50px 10px;
+          grid-template-columns: 6fr 6fr 6fr 6fr 6fr 6fr;
+          grid-template-rows: 600px 600px;
+          padding: 10px;
+        }
+        
+
+        .grid-item {
+          background-color: #c4a7db;
+          border: 2px dashed #924bc9;
+          padding: 30px;
+          font-size: 40px;
+          text-align: center;
+        }
