@@ -31,7 +31,7 @@ tags: navItem
 <h2>chessboard</h2>
     </div>          
   
-     <div class="image-text">         
+<div class="image-text">         
   <div class="layout">
 <img src="images/CITYSCAPE (1).jpg" width="800" height="700">
 </div>
