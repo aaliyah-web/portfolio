@@ -7,7 +7,7 @@ tags: navItem
 <section class="project">
 
 <article class="project-image">
-<img src="images/selfportait.png" width="800" height="700">
+<img src="/images/selfportait.png" width="800" height="700">
     <h2>self portrait</h2>
     <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2019 <br>
@@ -18,7 +18,7 @@ tags: navItem
 </article>
 
 <article class="project-image">
-<img src="images/chessboard.jpg" width="800" height="700">
+<img src="/images/chessboard.jpg" width="800" height="700">
     <h2>chessboard</h2> 
   <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2018 <br>
@@ -29,7 +29,7 @@ tags: navItem
 </article>
 
 <article class="project-image">
-<img src="images/CITYSCAPE (1).jpg" width="800" height="700">
+<img src="/images/CITYSCAPE (1).jpg" width="800" height="700">
   <h2>cityscape</h2>
   <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2020 <br>
@@ -40,7 +40,7 @@ tags: navItem
 </article>
   
 <article class="project-image">
-<img src="images/digital.png" width="800" height="700">
+<img src="/images/digital.png" width="800" height="700">
   <h2>digital closet</h2>
     <h5><a href="https://editor.p5js.org/aaliyahgayle/sketches/3LtIlMC8R"> a journey through jeans </a></h5>
   <strong>medium:</strong> pj5s <br>
@@ -52,7 +52,7 @@ tags: navItem
 </article>
   
   <article class="project-image">
-<img src="images/website.png" width="800" height="700"> 
+<img src="/images/website.png" width="800" height="700"> 
     <h2>all about color </h2>
     <h5><a href="https://www.figma.com/proto/CazEcnCCDq1jqJujL9KvJb/MMP-200-Actual-Website?node-id=1%3A2&starting-point-node-id=1%3A2">color website (desktop version)</a></h5>
     <h5><a href="https://www.figma.com/proto/CazEcnCCDq1jqJujL9KvJb/MMP-200-Actual-Website?node-id=10%3A2&starting-point-node-id=10%3A2">color website V2 (phone version)</a></h5>
@@ -65,7 +65,7 @@ tags: navItem
 </article>
     
   <article class="project-image">
-<img src="images/app.png" width="800" height="700"> 
+<img src="/images/app.png" width="800" height="700"> 
     <h2>coupons4campus </h2>
     <h5><a href="https://www.figma.com/proto/E4oFJA53PEc1jAOOHJ3eYY/MMP-200-High-Fidelity-prototype?node-id=7%3A129&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A129&show-proto-sidebar=1"> bmcc website</a></h5>
     <h5><a href="https://docs.google.com/document/d/1mZeobeWzr6so3jpjsDNa4bZk17VRCtPBjFNhjPAOVCk/edit"> case study </a></h5>
