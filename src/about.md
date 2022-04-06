@@ -1,12 +1,12 @@
 ---
-title: Home
+title: about
 layout: base.njk
 tags: navItem
 ---
 <div class="self-intro">
          
             <section class="myself">
-                   <img src="images/myself.jpg" width="800" height="700">
+                   <img src="/images/myself.jpg" width="800" height="700">
                   <h1><strong> My name is </strong></h1>
                     <h3>Aaliyah Gayle, I am a 19-year-old art student from New York.
                     I have been pursuing and creating art for several years now, having begun in high school.

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: index
 layout: base.njk
 tags: navItem
 ---
@@ -26,14 +26,14 @@ tags: navItem
           
 <div class="image-text">              
 <div class="layout">            
-<img src="images/chessboard.jpg" width="800" height="700">
+<img src="/images/chessboard.jpg" width="800" height="700">
 </div>
 <h2>chessboard</h2>
     </div>          
   
 <div class="image-text">         
   <div class="layout">
-<img src="images/CITYSCAPE (1).jpg" width="800" height="700">
+<img src="/images/CITYSCAPE (1).jpg" width="800" height="700">
 </div>
   <h2>cityscape</h2>
        </div> 
