@@ -19,7 +19,7 @@ tags: navItem
             
 <div class="image-text">       
 <div class="layout">
-<img src="images/selfportait.png" width="800" height="700">
+<img src="/images/selfportait.jpg" width="800" height="700">
  </div>       
 <h2>self portrait</h2>
   </div>          
