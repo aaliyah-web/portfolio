@@ -22,17 +22,10 @@ siteName: overthedigitalwall
   <link rel="stylesheet" href="/css/styles.css">
 </head>
 
-<nav class="site-nav">
-    <div class="logo">
-     over the digital wall
-    </div>
-    <a href="#" class="hamburger" id="nav-toggle"><span></span></a>
-    <div class="links" id="nav-links">
-      <a href="/index.md"> home </a>
-      <a href="/work.md"> work </a>
-      <a href="/about.md"> about </a>
-    </div>
-  </nav>
+<header class="site-nav">
+        <!-- add site wide header content here -->
+        {% include "nav-basic.njk" %}
+  </header>
 
   {{ content | safe }}
 
