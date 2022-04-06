@@ -7,7 +7,7 @@ tags: navItem
 <section class="project">
 
 <article class="project-image">
-<img src="/images/selfportait.png" width="800" height="700">
+<img src="/images/selfportait.jpg" width="800" height="700">
     <h2>self portrait</h2>
     <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2019 <br>
