@@ -5,10 +5,10 @@ tags: navItem
 ---
 <div class="self-intro">
          
-            <section class="myself">
-                   <img src="/images/myself.jpg" width="800" height="700">
-                  <h1><strong> My name is </strong></h1>
-                    <h3>Aaliyah Gayle, I am a 19-year-old art student from New York.
+ <section class="myself">
+ <img src="/images/myself.jpg" width="800" height="700">
+<h1><strong> My name is </strong></h1>
+<h3>Aaliyah Gayle, I am a 19-year-old art student from New York.
                     I have been pursuing and creating art for several years now, having begun in high school.
                     I am someone who is not good with words or speeches so I let my work speak for myself.
                     Outside of art, I adore sneakers, music, and matching socks. </h3>
