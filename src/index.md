@@ -6,7 +6,7 @@ tags: navItem
  <section class="project-page1">
             
 <div class="pageone-text">
-<h1> graphic designer that works with</h1>
+<h1> designer that works with</h1>
 <div class="pageone-text2">
  <h2> adobe.</h2>
 <h2> code.</h2>
