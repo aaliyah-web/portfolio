@@ -5,7 +5,9 @@ tags: navItem
 ---
  <section class="project-page1">
             
-<div class="ring-wrapper"><div class="ring"> designer that works with </div></div>
+<div class="pageone-text">
+<h1> designer that works with</h1>
+<div class="pageone-text2">
  <h2> adobe.</h2>
 <h2> code.</h2>
 <h2> ui/ux design.</h2>
