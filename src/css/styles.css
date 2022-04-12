@@ -211,6 +211,39 @@ background-color: #f0e6ff;
       letter-spacing: 0.2em;
     }
     
+    body {
+      height: 100vh;
+      width: 100%;
+      display: grid;
+      place-content: center;
+      overflow: hidden;
+      
+    }
+    
+    .ring-wrapper {
+      position: relative;
+      
+    }
+    
+    .ring {
+   
+      white-space: nowrap;
+      font-size: 20px;
+      color: #a272cf;
+
+      font-kerning: none;
+      text-rendering: optimizeSpeed;
+      transform: translateZ(0);
+    
+    
+      visibility: hidden;
+      
+      div {
+        will-change: transform;
+      }
+    }
+    
+
     /* CSS Hamburger Icon 
     thanks to Elijah Manor */
     .hamburger{
