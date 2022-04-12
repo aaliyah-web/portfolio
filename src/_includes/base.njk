@@ -39,33 +39,8 @@ siteName: base
 
   <footer>
         <!-- your site footer content here... -->
-        
-        div.main
-div.footer
-    div.bubbles
-        - for (var i = 0; i < 128; i++) //Small numbers looks nice too
-            div.bubble(style=`--size:${2+Math.random()*4}rem; --distance:${6+Math.random()*4}rem; --position:${-5+Math.random()*110}%; --time:${2+Math.random()*2}s; --delay:${-1*(2+Math.random()*2)}s;`)
-    div.content
-        div
-            div
-                b aaliyah's 
-                a(href="#") world
-                
-            div
-                b over the 
-                a(href="#") digital wall
 
-            div
-               
-        div
-            a.image(href="https://codepen.io/z-" target="_blank" style="background-image: url(\"https://s3-us-west-2.amazonaws.com/s.cdpn.io/199011/happy.svg\")")
-            p ©2019 Not Really
-svg(style="position:fixed; top:100vh")
-    defs
-        filter#blob
-            feGaussianBlur(in="SourceGraphic" stdDeviation="10" result="blur")
-            feColorMatrix(in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9" result="blob")
-            feComposite(in="SourceGraphic" in2="blob" operator="atop")
+       aaliyah's world 
       </footer>
     
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
