@@ -9,6 +9,7 @@ tags: navItem
 <article class="project-image">
 <img src="/images/selfportait.jpg" width="800" height="700">
     <h2>self portrait</h2>
+    <h5><a href="/images/selfportait.jpg"> close up </a></h5>
     <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2019 <br>
          this self-portrait is, entirely made up of triangles, this was achieved by carefully outlining
