@@ -33,7 +33,7 @@ tags: navItem
 <article class="project-image">
 <img src="/images/CITYSCAPE (1).jpg" width="800" height="700">
   <h2>cityscape</h2>
-  h5><a href="/images/CITYSCAPE (1).jpg"> close up </a></h5>
+  <h5><a href="/images/CITYSCAPE (1).jpg"> close up </a></h5>
   <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2020 <br>
   This work was made during my first semester of college, the objective was to create a postcard for a city of my choosing -
