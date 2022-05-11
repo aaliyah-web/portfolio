@@ -62,9 +62,7 @@ tags: navItem
     <h5><a href="https://docs.google.com/document/d/1nJbNl33f7tthICSLuS3uVF-LCcggJlzGrtEyO6BkuM4/edit"> case study </a></h5>
   <strong>medium:</strong> figma <br>
   <p><strong>date:</strong> 2021 <br>
- This project is prototype of a website, the website is focused on color and the target audience would be designers and professional.
-    I choose a puprle background with various hues, tones, and shades to create a welcoming 
-    and friendly atmosphere that people would wanted to revist.
+This project is a prototype for a website focused on color theory for design professionals. I chose a purple background with various hues, tones, and shades to create a welcoming and friendly atmosphere that users would want to visit repeatedly.
 </article>
     
   <article class="project-image">
