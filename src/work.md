@@ -12,9 +12,9 @@ tags: navItem
     <h5><a href="/images/selfportait.jpg"> close up </a></h5>
     <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2019 <br>
-         this self-portrait is, entirely made up of triangles, this was achieved by carefully outlining
-    triangles of different size and using the live paint tool to fill each one. the colors of the portrait choosen were 
-    from the orginal photo however i choose a purple background because it was complimentary to the green coat.
+         This self-portrait is, entirely made up of triangles, this was achieved by carefully outlining
+    triangles of different size and using the live paint tool to fill each one. The colors of the portrait choosen were 
+    from the orginal photo however I choose a purple background because it was complimentary to the green coat.
     
 </article>
 
@@ -24,9 +24,9 @@ tags: navItem
     <h5><a href="/images/chessboard.jpg"> close up </a></h5>
   <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2018 <br>
-        the objective of this project was to create a 3D realistic chessboard using Illustrator. 
-    i made the chess pieces by outlining half of the pieces, then using the 3D render tool to add some dimensionality.
-    the hardest part was making the horse chess piece because unlike the others which were symmetrical, 
+        The objective of this project was to create a 3D realistic chessboard using Illustrator. 
+    I made the chess pieces by outlining half of the pieces, then using the 3D render tool to add some dimensionality.
+    The hardest part was making the horse chess piece because unlike the others which were symmetrical, 
     the horse had to be made by rendering the bottom and outlining the top half.
 </article>
 
@@ -37,8 +37,8 @@ tags: navItem
   <strong>medium:</strong> adobe illustrator <br>
   <p><strong>date:</strong> 2020 <br>
   This work was made during my first semester of college, the objective was to create a postcard for a city of my choosing -
-    i picked New York, the hardest aspect of this project was the color scheme. It was challenging to find colors that
-    would work together. I choose colors that were more pastel and dreamy like a peaceful evening atmosphere. i wanted the work to be fun in colors 
+    I picked New York, the hardest aspect of this project was the color scheme. It was challenging to find colors that
+    would work together. I choose colors that were more pastel and dreamy like a peaceful evening atmosphere. I wanted the work to be fun in colors 
     and make the viewer feel warm and excited. 
 </article>
   
@@ -48,10 +48,10 @@ tags: navItem
     <h5><a href="https://editor.p5js.org/aaliyahgayle/sketches/3LtIlMC8R"> a journey through jeans </a></h5>
   <strong>medium:</strong> pj5s <br>
   <p><strong>date:</strong> 2021 <br>
- the user will follow and help a young woman choose an outfit for the day, while various sounds are played! 
-    this project features a mouse-based interface. the user will click along and follow with the character decides on
-    what is the best outfit as sounds (wav) play based where the mouse clicks. the work also has a hand-drawn character, 
-    background, and clothing options. the inspiration is taken form various movie montages such as clueless.
+ The user will follow and help a young woman choose an outfit for the day, while various sounds are played! 
+    This project features a mouse-based interface. The user will click along and follow with the character decides on
+    what is the best outfit as sounds (wav) play based where the mouse clicks. The work also has a hand-drawn character, 
+    background, and clothing options. The inspiration is taken form various movie montages such as clueless.
 </article>
   
   <article class="project-image">
@@ -62,8 +62,8 @@ tags: navItem
     <h5><a href="https://docs.google.com/document/d/1nJbNl33f7tthICSLuS3uVF-LCcggJlzGrtEyO6BkuM4/edit"> case study </a></h5>
   <strong>medium:</strong> figma <br>
   <p><strong>date:</strong> 2021 <br>
- this project is prototype of a website, the website is focused on color and the target audience would be designers and professional.
-    i choose a puprle background with various hues, tones, and shades to create a welcoming 
+ This project is prototype of a website, the website is focused on color and the target audience would be designers and professional.
+    I choose a puprle background with various hues, tones, and shades to create a welcoming 
     and friendly atmosphere that people would wanted to revist.
 </article>
     
@@ -74,7 +74,7 @@ tags: navItem
     <h5><a href="https://docs.google.com/document/d/1mZeobeWzr6so3jpjsDNa4bZk17VRCtPBjFNhjPAOVCk/edit"> case study </a></h5>
   <strong>medium:</strong> figma <br>
   <p><strong>date:</strong> 2021 <br>
-the Project was to create an app that would be beneficial to BMCC students.
+The Project was to create an app that would be beneficial to BMCC students.
     My app focuses on creating coupons and codes for BMCC students, which would be accessed through various categories
     such as in-store and online options. The app is inspired by other coupon and food apps like Grubhub and Honey.
 </article>  
