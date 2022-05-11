@@ -17,7 +17,7 @@ I have been pursuing and creating art for several years now, having begun in hig
 opening up my own graphic design company.</h3>
 
   <h4>Interested in me or have any questions: </h4>
-               <h5>Email: aaliyahgayle2002@gmail.com <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new">  </h5>
+               <h5>Email: aaliyahgayle2002@gmail.com <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new"> </h5>
                <h5>Instagram: <a href="https://www.instagram.com/yellowcoloredsocks/"> 
                
   @yellowcoloredsocks</a></h5>
