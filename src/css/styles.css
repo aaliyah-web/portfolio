@@ -171,6 +171,10 @@ grid-column-gap: 1em;
      padding: 10px;
 }
 
+.self-intro{
+  padding: 20px 
+}
+
 .layout{
 background-color: #f0e6ff;
 }
